@@ -1,0 +1,56 @@
+| Left align | Right align | Center align |
+|:-----------|------------:|:------------:|
+| This       |        This |     This     |
+| column     |      column |    column    |
+| will       |        will |     will     |
+| be         |          be |      be      |
+| left       |       right |    center    |
+| aligned    |     aligned |   aligned    |
+
+
+
+Level One
+(Protect Your Data)  Level Two
+(Know Your data)	Level Three
+(Monitor Your Data)	Level Four
+(Repair Your Data)
+Storage and Geographic Location	
+Two complete copies that are not collocated
+For data on heterogeneous media (optical disks, hard drives, etc.) get the content off the medium and into your storage system
+At least three complete copies
+At least one copy in a different geographic location
+Document your storage system(s) and storage media and what you need to use them
+At least one copy in a geographic location with a different disaster threat
+Obsolescence monitoring process for your storage system(s) and media
+At least 3 copies in geographic locations with different disaster threats.
+Have a comprehensive plan in place that will keep files and metadata on currently accessible media or systems
+File Fixity and Data Integrity	
+Check file fixity on ingest if it has been provided with the content
+Create fixity info if it wasn’t provided with the content
+Check fixity on all ingestsUse write-blockers when working with original media
+Virus-check high risk content
+Check fixity of content at fixed intervals
+Maintain logs of fixity info; supply audit on demand
+Ability to detect corrupt data
+Virus-check all content
+Check fixity of all content in response to specific events or activities
+Ability to replace/repair corrupted data
+Ensure no one person has write access to all copies
+Information Security 	
+Identify who has read, write, move, and delete authorization to individual files
+Restrict who has those authorizations to individual files
+Document access restrictions for content
+Maintain logs of who performed what actions on files, including deletions and preservation actions
+Perform audit of logs
+Metadata	
+Inventory of content and its storage location
+Ensure backup and non-collocation of inventory
+Store administrative metadata
+Store transformative metadata and log events
+Store standard technical and descriptive metadata
+Store standard preservation metadata
+File Formats	
+When you can give input into the creation of digital files encourage use of a limited set of known open file formats and codecs
+Inventory of file formats in use
+Monitor file format obsolescence issues
+Perform format migrations, emulation and similar activities as needed
